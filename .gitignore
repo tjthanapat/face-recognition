@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+
+face_samples/
+
+# Cloned Repos
+Keras-OpenFace/
+Face-recognition-Using-Facenet-On-Tensorflow-2.X/
